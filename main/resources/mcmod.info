@@ -1,0 +1,16 @@
+[
+{
+  "modid": "colorfulredstone",
+  "name": "Colorful Redstone Mod",
+  "description": "This mod adds colored redstone, along with some special types and other useful redstone stuff.",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AstronomyGuy"],
+  "credits": "AstronomyGuy - Programming and Idea, Galena Gaming - Textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
